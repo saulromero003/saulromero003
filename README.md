@@ -49,4 +49,4 @@
 
 ---
 
-<p align="center">✨ “Learning never exhausts the mind.” — Leonardo da Vinci ✨</p>
+<p align="center">⚡ Always learning. Always building. Always improving. ⚡</p>
